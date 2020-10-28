@@ -1,0 +1,8 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+#carouselProducts  div   img {
+    max-width: 600px;
+    margin: auto;
+}
